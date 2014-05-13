@@ -1,0 +1,32 @@
+{
+    "name": "tritoq/cielo-bundle",
+    "license": "GPL3.0+",
+    "type": "bundle",
+    "description": "Bundle de integração da Cielo para o Symfony 2",
+
+    "autoload": {
+        "psr-0": {
+            "Tritoq\\Bundle": "src/"
+        }
+    },
+
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/framework-bundle": "~2.4",
+        "symfony/validator": "~2.2",
+        "tritoq/cielo": "dev-master"
+
+    },
+
+    "require-dev": {
+        "symfony/yaml": "~2.3",
+        "phpunit/phpunit": "3.7@stable",
+        "squizlabs/php_codesniffer": "dev-master",
+        "pdepend/pdepend": "dev-master",
+        "phpmd/phpmd": "dev-master"
+    },
+
+    "config": {
+        "bin-dir": "bin"
+    }
+}

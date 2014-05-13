@@ -1,0 +1,30 @@
+tritoq_cielo:
+  #
+  # Dados da Loja
+  #
+  loja:
+     nome: "Nome da Loja"
+     ambiente: "teste"
+     url_retorno: "http://google.com.br"
+     #numero_loja: "número da Loja"
+     #chave: "chave da loja"
+
+  #
+  # Dados da transação
+  #
+  transacao:
+      autorizar: 3
+      capturar: false
+
+  #
+  # Dados do pedido
+  #
+  pedido:
+      idioma: "PT"
+
+  #
+  # Dados para análise de risco
+  #
+
+  analise_risco:
+      ativo: true

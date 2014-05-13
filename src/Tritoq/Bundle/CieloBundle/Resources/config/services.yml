@@ -1,0 +1,17 @@
+parameters:
+# Parameters here
+
+
+services:
+#   Classe de serviço de manipulação de informações
+
+    tritoq.cielo.handler:
+        class: Tritoq\Bundle\CieloBundle\Handler\CieloHandler
+        arguments: [%tritoq.cielo.configuration%]
+        calls:
+          - [setEventDispatcher, [@event_dispatcher]]
+
+    tritoq.analise.event_subscriber:
+        class: Tritoq\Bundle\CieloBundle\EventListener\AnaliseEventSubscriber
+        tags:
+          - { name: kernel.event_subscriber }

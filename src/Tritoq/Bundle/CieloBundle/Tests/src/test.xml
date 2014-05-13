@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<requisicao-transacao id="1" versao="1.4.0">
+    <dados-ec>
+        <numero>1006993069</numero>
+        <chave>25fbb99741c739dd84d7b06ec78c9bac718838630f30b112d033ce2e621b34f3</chave>
+    </dados-ec>
+    <dados-portador>
+        <numero>4012001037141112</numero>
+        <validade>201805</validade>
+        <indicador>1</indicador>
+        <codigo-seguranca>123</codigo-seguranca>
+        <nome-portador>Portador 1</nome-portador>
+        <token></token>
+    </dados-portador>
+    <dados-pedido>
+        <numero>9024</numero>
+        <valor>1200</valor>
+        <moeda>986</moeda>
+        <data-hora>2014-02-02T23:32:12</data-hora>
+        <descricao>Descrição do Pedido</descricao>
+        <idioma>PT</idioma>
+        <soft-descriptor>Nome da Loja</soft-descriptor>
+    </dados-pedido>
+    <forma-pagamento>
+        <bandeira>visa</bandeira>
+        <produto>1</produto>
+        <parcelas>1</parcelas>
+    </forma-pagamento>
+    <url-retorno>http://google.com.br</url-retorno>
+    <autorizar>3</autorizar>
+    <capturar>false</capturar>
+    <campo-livre/>
+    <bin>401200</bin>
+    <gerar-token>false</gerar-token>
+    <analise-fraude>
+        <configuracao>
+            <analisar-fraude>true</analisar-fraude>
+            <alto-risco>amp</alto-risco>
+            <medio-risco>amp</medio-risco>
+            <baixo-risco>capturar</baixo-risco>
+            <erro-dados>amp</erro-dados>
+            <erro-indisponibilidade>amp</erro-indisponibilidade>
+        </configuracao>
+        <afsService_run>true</afsService_run>
+        <merchantReferenceCode>123345</merchantReferenceCode>
+        <billTo_street1>Rua Marechal Deodoro, 400</billTo_street1>
+        <billTo_street2>Sala 1008</billTo_street2>
+        <billTo_city>Chapeco</billTo_city>
+        <billTo_state>SC</billTo_state>
+        <billTo_country>BR</billTo_country>
+        <billTo_postalCode>89802140</billTo_postalCode>
+        <billTo_customerID>9024</billTo_customerID>
+        <billTo_customerPassword>12345</billTo_customerPassword>
+        <billTo_personalID>123456789123</billTo_personalID>
+        <billTo_email>artur@tritoq.com</billTo_email>
+        <billTo_firstName>Artur</billTo_firstName>
+        <billTo_lastName>Magahalhaes</billTo_lastName>
+        <billTo_phoneNumber>49912341234</billTo_phoneNumber>
+        <billTo_ipAddress>192.168.1.254</billTo_ipAddress>
+        <shipto_street1>Rua Marechal Deodoro, 400</shipto_street1>
+        <shipto_street2>Sala 1008</shipto_street2>
+        <shipto_city>Chapeco</shipto_city>
+        <shipto_state>SC</shipto_state>
+        <shipto_country>BR</shipto_country>
+        <shipto_postalCode>89802140</shipto_postalCode>
+        <shipTo_phoneNumber>49912341234</shipTo_phoneNumber>
+        <deviceFingerprintID>null</deviceFingerprintID>
+        <decisionManager_travelData_completeRoute>NULL</decisionManager_travelData_completeRoute>
+        <decisionManager_travelData_departureDateTime>NULL</decisionManager_travelData_departureDateTime>
+        <decisionManager_travelData_journeyType>NULL</decisionManager_travelData_journeyType>
+        <decisionManager_travelData_leg_origin></decisionManager_travelData_leg_origin>
+        <decisionManager_travelData_leg_destination></decisionManager_travelData_leg_destination>
+        <purchaseTotals_currency>BRL</purchaseTotals_currency>
+        <purchaseTotals_grandTotalAmount>400.00</purchaseTotals_grandTotalAmount>
+        <item_unitPrice>390.00</item_unitPrice>
+        <item_passengerFirstName>NULL</item_passengerFirstName>
+        <item_passengerLastName>NULL</item_passengerLastName>
+        <item_passengerEmail>NULL</item_passengerEmail>
+        <item_passengerID>NULL</item_passengerID>
+        <mdd>
+            <merchantDefinedData_mddField_13>NULL</merchantDefinedData_mddField_13>
+            <merchantDefinedData_mddField_14>NULL</merchantDefinedData_mddField_14>
+            <merchantDefinedData_mddField_26>NULL</merchantDefinedData_mddField_26>
+        </mdd>
+    </analise-fraude>
+</requisicao-transacao>
