@@ -76,6 +76,11 @@ class CieloHandler
             ->setUrlRetorno($options['loja']['url_retorno'])
             ->setNomeLoja($options['loja']['nome']);
 
+
+        $this->service = new CieloService();
+        $this->service
+            ->setTransacao($this->createTransaction())
+            ->setLoja($this->loja);
     }
 
     /**

@@ -17,18 +17,20 @@
     <orderEntry type="module-library">
       <library name="PHARS">
         <CLASSES>
-          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/vendor/phpdocumentor/fileset/tests/data/test.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/pdepend/pdepend/src/site/rst/static_reflection/releases/staticReflection-0.1.1.phar" />
+          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/box.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
           <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
           <root url="phar:///usr/local/php5/lib/php/phpDocumentor/tests/data/test.phar" />
-          <root url="phar://$MODULE_DIR$/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
-          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/box.phar" />
+          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/vendor/phpdocumentor/fileset/tests/data/test.phar" />
         </CLASSES>
         <SOURCES>
-          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/vendor/phpdocumentor/fileset/tests/data/test.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/pdepend/pdepend/src/site/rst/static_reflection/releases/staticReflection-0.1.1.phar" />
+          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/box.phar" />
+          <root url="phar://$MODULE_DIR$/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
           <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
           <root url="phar:///usr/local/php5/lib/php/phpDocumentor/tests/data/test.phar" />
-          <root url="phar://$MODULE_DIR$/vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar" />
-          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/box.phar" />
+          <root url="phar:///usr/local/php5/lib/php/data/phpDocumentor/vendor/phpdocumentor/fileset/tests/data/test.phar" />
         </SOURCES>
       </library>
     </orderEntry>
