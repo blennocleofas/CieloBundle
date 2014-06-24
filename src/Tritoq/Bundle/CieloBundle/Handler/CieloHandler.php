@@ -80,6 +80,7 @@ class CieloHandler
         $this->service = new CieloService();
         $this->service
             ->setTransacao($this->createTransaction())
+            ->setSsl($options['loja']['ssl'])
             ->setLoja($this->loja);
     }
 

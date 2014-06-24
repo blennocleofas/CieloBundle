@@ -22,7 +22,7 @@
         "symfony/yaml": "~2.3",
         "phpunit/phpunit": "3.7@stable",
         "squizlabs/php_codesniffer": "dev-master",
-        "pdepend/pdepend": "dev-master",
+        "pdepend/pdepend": "2.0.*",
         "phpmd/phpmd": "dev-master"
     },
 

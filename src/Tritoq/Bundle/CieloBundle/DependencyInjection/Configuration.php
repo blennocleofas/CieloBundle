@@ -93,8 +93,14 @@ class Configuration implements ConfigurationInterface
 
             // Chave de autentição ao Webservice da Cielo
             ->scalarNode('chave')->defaultValue(Loja::LOJA_CHAVE_AMBIENTE_TESTE)->end()
+
+            // Caminho para o Certificado de Segurança
+            ->scalarNode('ssl')->defaultValue(false)->end()
+
             ->end()
             ->end()
+
+
 
             ->arrayNode('transacao')
             ->children()
