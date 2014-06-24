@@ -78,6 +78,7 @@ class CieloHandler
 
 
         $this->service = new CieloService();
+
         $this->service
             ->setTransacao($this->createTransaction())
             ->setSsl($options['loja']['ssl'])
@@ -337,6 +338,7 @@ class CieloHandler
         );
 
         $service->setHabilitarAnaliseRisco(false);
+        $service->setSsl($this->options['loja']['ssl']);
         $this->service = $service;
         return $this;
     }

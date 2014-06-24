@@ -8,6 +8,7 @@ tritoq_cielo:
      url_retorno: "http://google.com.br"
      #numero_loja: "número da Loja"
      #chave: "chave da loja"
+     ssl: "carlao"
 
   #
   # Dados da transação

@@ -14,7 +14,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Handler/CieloHandler.php" afterPath="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Handler/CieloHandler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-example.yml" afterPath="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-example.yml" />
     </list>
     <ignored path="CieloBundle.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,89 +38,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ValidationFactory.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Validation/ValidationFactory.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="34" selection-start="246" selection-end="246" vertical-scroll-proportion="13.583333" vertical-offset="461" max-vertical-offset="1350">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConstraintEncapsuled.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Validation/ConstraintEncapsuled.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="6" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TritoqCieloBundle.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/TritoqCieloBundle.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="562">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CieloHandler.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="CieloHandler.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Handler/CieloHandler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="40" selection-start="1525" selection-end="1525" vertical-scroll-proportion="-20.125" vertical-offset="417" max-vertical-offset="6675">
+            <state line="352" column="38" selection-start="9078" selection-end="9079" vertical-scroll-proportion="6.053571" vertical-offset="0" max-vertical-offset="6720">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AnaliseEventSubscriber.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/EventListener/AnaliseEventSubscriber.php">
+      <file leaf-file-name="CieloService.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/tritoq/cielo/src/Tritoq/Payment/Cielo/CieloService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="88" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1740">
+            <state line="427" column="57" selection-start="9816" selection-end="9821" vertical-scroll-proportion="-0.08" vertical-offset="6356" max-vertical-offset="13065">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Transacao.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/tritoq/cielo/src/Tritoq/Payment/Cielo/Transacao.php">
+      <file leaf-file-name="CieloHandlerTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="672" column="20" selection-start="14581" selection-end="14581" vertical-scroll-proportion="-32.666668" vertical-offset="9281" max-vertical-offset="10425">
+            <state line="122" column="5" selection-start="3711" selection-end="3711" vertical-scroll-proportion="-5.5833335" vertical-offset="1531" max-vertical-offset="4890">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="services.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Resources/config/services.yml">
+      <file leaf-file-name="test.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/test.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="35" selection-start="307" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
+            <state line="1" column="1" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigurationTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/ConfigurationTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="48" selection-start="2782" selection-end="2782" vertical-scroll-proportion="-13.041667" vertical-offset="947" max-vertical-offset="1545">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TritoqCieloExtensionTest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/TritoqCieloExtensionTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="742" selection-end="742" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="465">
               <folding>
-                <marker date="1400006026000" expanded="true" signature="99:302" placeholder="tritoq.cielo.handler:" />
-                <marker date="1400006026000" expanded="true" signature="241:302" placeholder="calls:" />
+                <element signature="e#125#184#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
+      <file leaf-file-name="config-example.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-example.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="45" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
+            <state line="10" column="18" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="6" selection-start="415" selection-end="415" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configuration.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/Configuration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="96" column="54" selection-start="2866" selection-end="2866" vertical-scroll-proportion="-23.75" vertical-offset="780" max-vertical-offset="2520">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TritoqCieloExtension.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/TritoqCieloExtension.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="1" selection-start="1344" selection-end="1344" vertical-scroll-proportion="-26.25" vertical-offset="0" max-vertical-offset="735">
+              <folding>
+                <element signature="e#6#59#0" expanded="false" />
+                <element signature="e#120#179#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,11 +152,9 @@
         <option value="$PROJECT_DIR$/app/phpunit.xml" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/CieloHandlerTest.php" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Service/CieloHandler.php" />
-        <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-example.yml" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-invalid-example.yml" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/test.xml" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/test2.xml" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/TritoqCieloBundle.php" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/TritoqCieloExtensionTest.php" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/TritoqCieloExtension.php" />
@@ -158,12 +165,14 @@
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Validation/ValidationFactory.php" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Constraints/Instance.php" />
-        <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/Configuration.php" />
         <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/EventListener/AnaliseEventSubscriber.php" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$USER_HOME$/Documents/sitemap.xml" />
-        <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Handler/CieloHandler.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/Configuration.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-example.yml" />
+        <option value="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Handler/CieloHandler.php" />
       </list>
     </option>
   </component>
@@ -228,6 +237,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,6 +250,46 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="CieloBundle" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tritoq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CieloBundle" />
@@ -269,6 +319,116 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tritoq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Handler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tritoq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependecyInjection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tritoq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -302,9 +462,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tritoq" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DependencyInjection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CieloBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,42 +520,42 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="SearchEverywhereHistory" value="" />
+    <property name="SearchEverywhereHistory" value="/" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src" />
     </key>
   </component>
-  <component name="RunManager" selected="PHPUnit.CieloHandlerTest.testAnaliseSubscriber">
-    <configuration default="false" name="CieloHandlerTest.testDoConsultaWithInvalidTid" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\Handler\CieloHandlerTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php" method="testDoConsultaWithInvalidTid" scope="Method" />
-      <RunnerSettings RunnerId="PhpRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CieloHandlerTest.testDoCaptura" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\Handler\CieloHandlerTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php" method="testDoCaptura" scope="Method" />
-      <RunnerSettings RunnerId="PhpRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CieloHandlerTest.testDoCapturaWithInvalidTid" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\Handler\CieloHandlerTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php" method="testDoCapturaWithInvalidTid" scope="Method" />
-      <RunnerSettings RunnerId="PhpRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CieloHandlerTest.testDoCancela" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
-      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\Handler\CieloHandlerTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php" method="testDoCancela" scope="Method" />
-      <RunnerSettings RunnerId="PhpRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="PHPUnit.CieloHandlerTest.testHandleDataWithEmpty">
     <configuration default="false" name="CieloHandlerTest.testAnaliseSubscriber" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\Handler\CieloHandlerTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php" method="testAnaliseSubscriber" scope="Method" />
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConfigurationTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\DependecyInjection\ConfigurationTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/ConfigurationTest.php" scope="Class" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TritoqCieloExtensionTest.testValidOptions" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\DependecyInjection\TritoqCieloExtensionTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/TritoqCieloExtensionTest.php" method="testValidOptions" scope="Method" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConfigurationTest.testOptions" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\DependecyInjection\ConfigurationTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/ConfigurationTest.php" method="testOptions" scope="Method" />
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CieloHandlerTest.testHandleDataWithEmpty" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tritoq\Bundle\CieloBundle\Tests\Handler\CieloHandlerTest" file="$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php" method="testHandleDataWithEmpty" scope="Method" />
+      <RunnerSettings RunnerId="PhpUnitDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpUnitDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -369,19 +572,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoConsultaWithInvalidTid" />
-      <item index="1" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoCaptura" />
-      <item index="2" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoCapturaWithInvalidTid" />
-      <item index="3" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoCancela" />
-      <item index="4" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testAnaliseSubscriber" />
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testAnaliseSubscriber" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.ConfigurationTest" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.TritoqCieloExtensionTest.testValidOptions" />
+      <item index="3" class="java.lang.String" itemvalue="PHPUnit.ConfigurationTest.testOptions" />
+      <item index="4" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testHandleDataWithEmpty" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testAnaliseSubscriber" />
-        <item index="1" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoCancela" />
-        <item index="2" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoCapturaWithInvalidTid" />
-        <item index="3" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoCaptura" />
-        <item index="4" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testDoConsultaWithInvalidTid" />
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testHandleDataWithEmpty" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.ConfigurationTest.testOptions" />
+        <item index="2" class="java.lang.String" itemvalue="PHPUnit.TritoqCieloExtensionTest.testValidOptions" />
+        <item index="3" class="java.lang.String" itemvalue="PHPUnit.ConfigurationTest" />
+        <item index="4" class="java.lang.String" itemvalue="PHPUnit.CieloHandlerTest.testAnaliseSubscriber" />
       </list>
     </recent_temporary>
   </component>
@@ -417,12 +620,20 @@
       <created>1400868327155</created>
       <updated>1400868327155</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bugs fixeds">
+      <created>1400868432453</created>
+      <updated>1400868432453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Bugs fixeds">
+      <created>1403642156762</created>
+      <updated>1403642156762</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1010" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -435,15 +646,15 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37300745" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37300745" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32943678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26354942" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -489,18 +700,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/tritoq/cielo/src/Tritoq/Payment/Cielo/CieloService.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="669" column="36" selection-start="17791" selection-end="17791" vertical-scroll-proportion="0.0" vertical-offset="10035" max-vertical-offset="12345">
-          <folding />
-        </state>
+        <state line="669" column="36" selection-start="17791" selection-end="17791" vertical-scroll-proportion="0.0" vertical-offset="10035" max-vertical-offset="12345" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Resources/config/services.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="35" selection-start="307" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
-          <folding>
-            <marker date="1400006026000" expanded="true" signature="99:302" placeholder="tritoq.cielo.handler:" />
-            <marker date="1400006026000" expanded="true" signature="241:302" placeholder="calls:" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -604,19 +810,9 @@
         <state line="26" column="4" selection-start="531" selection-end="1038" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="645" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-invalid-example.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/symfony/validator/Symfony/Component/Validator/Constraints/Type.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="6" selection-start="478" selection-end="478" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="645" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-example.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="265" selection-end="265" vertical-scroll-proportion="0.56532663" vertical-offset="0" max-vertical-offset="525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/test2.xml">
@@ -644,41 +840,11 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="877" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="1" selection-start="45" selection-end="45" vertical-scroll-proportion="0.029880479" vertical-offset="0" max-vertical-offset="1365" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/TritoqCieloBundle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="0" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Resources/config/services.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="35" selection-start="307" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding>
-            <marker date="1400006026000" expanded="true" signature="99:302" placeholder="tritoq.cielo.handler:" />
-            <marker date="1400006026000" expanded="true" signature="241:302" placeholder="calls:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/TritoqCieloExtensionTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="42" selection-start="167" selection-end="167" vertical-scroll-proportion="0.17475729" vertical-offset="0" max-vertical-offset="515" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/ConfigurationTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="8" selection-start="3066" selection-end="3066" vertical-scroll-proportion="0.784466" vertical-offset="1051" max-vertical-offset="1590" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="319" column="10" selection-start="8756" selection-end="8756" vertical-scroll-proportion="-10.208333" vertical-offset="4510" max-vertical-offset="5025" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Validation/ConstraintEncapsuled.php">
@@ -690,26 +856,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Validation/ValidationFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="34" selection-start="246" selection-end="246" vertical-scroll-proportion="13.583333" vertical-offset="461" max-vertical-offset="1350">
+        <state line="9" column="34" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0" vertical-offset="461" max-vertical-offset="1350">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/Configuration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="36" selection-start="395" selection-end="395" vertical-scroll-proportion="0.3883495" vertical-offset="0" max-vertical-offset="2520" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/TritoqCieloExtension.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="1" selection-start="1344" selection-end="1344" vertical-scroll-proportion="-21.375" vertical-offset="162" max-vertical-offset="780" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Event/CieloEvent.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="31" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="1695" max-vertical-offset="2520">
-          <folding />
-        </state>
+        <state line="113" column="31" selection-start="2232" selection-end="2232" vertical-scroll-proportion="0.0" vertical-offset="1695" max-vertical-offset="2520" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/EventListener/AnaliseEventSubscriber.php">
@@ -719,9 +873,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$USER_HOME$/Documents/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="37" selection-start="327" selection-end="327" vertical-scroll-proportion="0.24249423" vertical-offset="0" max-vertical-offset="866" />
+        <state line="25" column="7" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.1724138" vertical-offset="275" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/tritoq/cielo/src/Tritoq/Payment/Cielo/Transacao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="672" column="20" selection-start="14581" selection-end="14581" vertical-scroll-proportion="0.59505063" vertical-offset="9551" max-vertical-offset="10440">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -729,40 +890,103 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="45" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="7" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.1724138" vertical-offset="275" max-vertical-offset="870" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/tritoq/cielo/src/Tritoq/Payment/Cielo/CieloService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="13" selection-start="3112" selection-end="3112" vertical-scroll-proportion="0.33256352" vertical-offset="2307" max-vertical-offset="12300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/tritoq/cielo/src/Tritoq/Payment/Cielo/Transacao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="672" column="20" selection-start="14581" selection-end="14581" vertical-scroll-proportion="-32.666668" vertical-offset="9281" max-vertical-offset="10425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Handler/CieloHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="40" selection-start="1525" selection-end="1525" vertical-scroll-proportion="-20.125" vertical-offset="417" max-vertical-offset="6675">
+        <state line="3" column="45" selection-start="101" selection-end="101" vertical-scroll-proportion="0.050790068" vertical-offset="0" max-vertical-offset="886">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+        <state line="5" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.08214677" vertical-offset="0" max-vertical-offset="913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/TritoqCieloExtension.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="1" selection-start="1344" selection-end="1344" vertical-scroll-proportion="-26.25" vertical-offset="0" max-vertical-offset="735">
+          <folding>
+            <element signature="e#6#59#0" expanded="false" />
+            <element signature="e#120#179#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-invalid-example.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="155" selection-end="155" vertical-scroll-proportion="0.13143483" vertical-offset="0" max-vertical-offset="913">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="415" selection-end="415" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/DependencyInjection/Configuration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="54" selection-start="2866" selection-end="2866" vertical-scroll-proportion="-23.75" vertical-offset="780" max-vertical-offset="2520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="1" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/src/config-example.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="18" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/TritoqCieloExtensionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="742" selection-end="742" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="465">
+          <folding>
+            <element signature="e#125#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/DependecyInjection/ConfigurationTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="48" selection-start="2782" selection-end="2782" vertical-scroll-proportion="-13.041667" vertical-offset="947" max-vertical-offset="1545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="307" selection-end="338" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Tests/Handler/CieloHandlerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="5" selection-start="3711" selection-end="3711" vertical-scroll-proportion="-5.5833335" vertical-offset="1531" max-vertical-offset="4890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/tritoq/cielo/src/Tritoq/Payment/Cielo/CieloService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="427" column="57" selection-start="9816" selection-end="9821" vertical-scroll-proportion="-0.08" vertical-offset="6356" max-vertical-offset="13065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tritoq/Bundle/CieloBundle/Handler/CieloHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="352" column="38" selection-start="9078" selection-end="9079" vertical-scroll-proportion="6.053571" vertical-offset="0" max-vertical-offset="6720">
           <folding />
         </state>
       </provider>
